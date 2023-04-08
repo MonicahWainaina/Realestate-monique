@@ -2,7 +2,6 @@
 
 > Simple Real estate website built with  html and  pure CSS for style
 
-## Demo: https://realestate-monique.herokuapp.com/index.html
 
 ##Author: Monique
 
